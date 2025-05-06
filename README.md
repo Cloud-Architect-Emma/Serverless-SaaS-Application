@@ -71,15 +71,15 @@ These endpoints are served through **Amazon API Gateway** and connected to **AWS
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![CloudWatch](./assets/screenshots/cloudwatch-book-thumbnails.png) | CloudWatch Logs for Lambda/API |
-| ![Book Thumbnails Web](./assets/screenshots/book-thumbnails-web.png) | Static Website hosted on S3 |
-| ![S3 Images](./assets/screenshots/s3-book-thumbnails-images.png) | Book thumbnail images in S3 |
-| ![API Gateway](./assets/screenshots/api-book-thumbnails.png) | API Gateway setup for endpoints |
-| ![APIs](./assets/screenshots/apis-book-thumbnails.png) | API endpoints for books and preferences |
-| ![DynamoDB](./assets/screenshots/dynamodb-book-thumbnails.png) | Book and UserPreferences tables |
-| ![Lambda Functions](./assets/screenshots/lambdas-book-thumbnails.png) | Lambda functions to serve APIs |
-| ![Lambda Permission](./assets/screenshots/lambda-permission-book-thumbnails.png) | Lambda execution roles and permissions |
-| ![Lambda Code](./assets/screenshots/lambda-book-thumbnails.png) | Sample Lambda code |
+| ![CloudWatch](./assets/screenshots/cloudwatch-book-thumbnails.jpg) | CloudWatch Logs for Lambda/API |
+| ![Book Thumbnails Web](./assets/screenshots/book-thumbnails-web.jpg) | Static Website hosted on S3 |
+| ![S3 Images](./assets/screenshots/s3-book-thumbnails-images.jpg) | Book thumbnail images in S3 |
+| ![API Gateway](./assets/screenshots/api-book-thumbnails.jpg) | API Gateway setup for endpoints |
+| ![APIs](./assets/screenshots/apis-book-thumbnails.jpg) | API endpoints for books and preferences |
+| ![DynamoDB](./assets/screenshots/dynamodb-book-thumbnails.jpg) | Book and UserPreferences tables |
+| ![Lambda Functions](./assets/screenshots/lambdas-book-thumbnails.jpg) | Lambda functions to serve APIs |
+| ![Lambda Permission](./assets/screenshots/lambda-permission-book-thumbnails.jpg) | Lambda execution roles and permissions |
+| ![Lambda Code](./assets/screenshots/lambda-book-thumbnails.jpg) | Sample Lambda code |
 
 ---
 
