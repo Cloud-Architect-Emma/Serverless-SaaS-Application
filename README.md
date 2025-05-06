@@ -73,13 +73,12 @@ These endpoints are served through **Amazon API Gateway** and connected to **AWS
 |------------|-------------|
 | ![CloudWatch](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/CloudWatch%20book%20thumbnails.JPG) | CloudWatch Logs for Lambda/API |
 | ![Book Thumbnails Web](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/book%20thumbnails%20web.JPG) | Static Website hosted on S3 |
-| ![S3 Images](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/s3%20book%20thumbnails%20images.JPG) | Book thumbnail images in S3 |
-| ![API Gateway](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/api%20book%20thumbnails.JPG) | API Gateway setup for endpoints |
-| ![DynamoDB](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/dynamodb%20book%20thumbnails.JPG) | Book and UserPreferences tables |
-| ![Lambda Functions](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/lambdas%20book%20thumbnails.JPG) | Lambda functions to serve APIs |
-| ![Lambda Permission](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/lambda%20permission%20book%20thumbnails.JPG) | Lambda execution roles and permissions |
-| ![Lambda Code](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/lambda%20book%20thumbnails.JPG) | Sample Lambda code |
-
+| ![DynamoDB](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/DynamoDB%20book%20thumbnails.JPG) | Book and UserPreferences tables |
+| ![Lambda](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/Lambda%20book%20thumbnails.JPG) | Lambda functions to serve APIs |
+| ![Lambda Permission](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/Lambda%20permission%20book%20thumbnails.JPG) | Lambda execution roles and permissions |
+| ![Lambdas](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/Lambdas%20book%20thumbnails.JPG) | Lambda functions to serve APIs |
+| ![S3](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/S3%20book%20thumbnails%20images.JPG) | Book thumbnail images in S3 |
+| ![API](https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/API%20book%20thumbnails.JPG) | API Gateway setup for endpoints |
 
 
 ---
