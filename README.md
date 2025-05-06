@@ -72,7 +72,7 @@ These endpoints are served through **Amazon API Gateway** and connected to **AWS
 | Screenshot | Description |
 |------------|-------------|
 | <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/CloudWatch%20book%20thumbnails.JPG" width="300" /> | CloudWatch Logs for Lambda/API |
-| <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/book%20thumbnails%20web.JPG" width="300" /> | Static Website hosted on S3 |
+| <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/book%20thumbnails%20web.JPG" width="300" /> | API endpoint displaying the homepage |
 | <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/DynamoDB%20book%20thumbnails.JPG" width="300" /> | Book and UserPreferences tables |
 | <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/Lambda%20book%20thumbnails.JPG" width="300" /> | Lambda functions to serve APIs |
 | <img src="https://github.com/Cloud-Architect-Emma/Serverless-SaaS-Application/raw/main/assets/screenshots/Lambda%20permission%20book%20thumbnails.JPG" width="300" /> | Lambda execution roles and permissions |
